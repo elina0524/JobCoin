@@ -1,3 +1,5 @@
+# Job Coin Mixer
+
 This Java program mimics a Job Coin Mixer. The user provides 3 unused addresses, the program spreads the deposit among the three addresses.
 ## How to Run
 ```
